@@ -5,10 +5,10 @@ import NavBar from './components/NavBar.tsx';
 import {createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import AboutUs from './pages/AboutUs.tsx';
-import Academics from './pages/Academics.tsx';
-import Admission from './pages/Admission.tsx';
-import StudentFaculty from './pages/StudentFaculty.tsx';
+import AboutUs from './AboutUs.tsx';
+import Academics from './Academics.tsx';
+import Admission from './Admission.tsx';
+import StudentFaculty from './StudentFaculty.tsx';
 import ContactUs from './components/ContactUs.tsx';
 
 const router = createBrowserRouter([
