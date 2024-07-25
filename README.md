@@ -1,6 +1,6 @@
 # Springdale Public School - Madrocket Technologies
 
-##Made with Vite + React + TS
+## Made with Vite + React + TS
 
 ### Install all the dependencies  
 ```npm install```
